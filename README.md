@@ -10,6 +10,8 @@ Used openCV library in Python - run using IDLE
 
 # Result
 
+Unzip Video.zip before running the code
+
 source video: video/park.avi
 
 result video: result.avi
